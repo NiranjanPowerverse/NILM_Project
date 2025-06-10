@@ -2,6 +2,7 @@
 import tf_keras as keras
 from keras.layers import Layer, Conv1D, Multiply, Activation, Input, Dense, MaxPooling1D, Dropout, LSTM, Concatenate
 from keras.models import Model
+from keras import initializers
 import tensorflow as tf
 
 class Conv1DGLU(Layer):
@@ -9,7 +10,7 @@ class Conv1DGLU(Layer):
         super(Conv1DGLU, self).__init__(**kwargs)
         self.filters = filters
         self.kernel_size = kernel_size
-        self.conv_linear = Conv1D(filters, kernel_size, padding='same')
+        self.conv_linear = Conv1D(filters, kernel_size,  padding='same')
         self.conv_gate = Conv1D(filters, kernel_size, padding='same')
 
     def call(self, inputs):

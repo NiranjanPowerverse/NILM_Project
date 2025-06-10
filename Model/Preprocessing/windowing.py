@@ -60,24 +60,21 @@ def trim_inactive_periods(input_foldername, column_name, output_filename, output
         segment_list.append([start, end])
         keep_mask[start:end] = True
 
-    if len(segment_list) > 150:
-        number_of_segments = 150
-    elif len(segment_list) < 150:
-        number_of_segments = len(segment_list)
+    number_of_segments = min(200, len(segment_list))
+
+    # short_folder = os.path.join(output_folder, "short_segments")
+    # long_folder = os.path.join(output_folder, "long_segments")
+    # os.makedirs(short_folder, exist_ok=True)
+    # os.makedirs(long_folder, exist_ok=True)
 
     for idx in range(number_of_segments):
         start, end = segment_list[idx]
-        if end - start <= 100:
-            print(f"Segment {idx} too short: {end - start} samples, skipping.")
-            continue
         trimmed_df = df.iloc[start:end].reset_index(drop=True)
         trimmed_df["Unix"] = df["Unix"] - df["Unix"].iloc[0]
 
-        print("output folder", output_folder)
-        file_out = f"{output_filename}_{idx}.csv"
-        output_path = os.path.join(output_folder, file_out)
 
-
+        # segment_folder = short_folder if (end - start) <= 150 else long_folder # seprate short and long segments
+        output_path = os.path.join(output_folder, f"{output_filename}_{idx}.csv")
         
         try:
             trimmed_df.to_csv(output_path, index=False)
@@ -86,6 +83,8 @@ def trim_inactive_periods(input_foldername, column_name, output_filename, output
             print(f"❌ Error processing {input_foldername}: {e}")
     
 
+
+                
 
 def preprocess_folder(input_foldername,output_filename, output_folder, column_name):
     """
@@ -139,6 +138,7 @@ def main():
             for item in folder_path.iterdir():
                 if item.is_file():
                     print("File:", item)
+
                     trim_inactive_periods(
                         input_foldername=item,
                         output_filename=item.name,

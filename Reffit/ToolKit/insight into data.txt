@@ -1,0 +1,1022 @@
+  - Segments >= 450 samples: 304
+  - Total zero segments: 10197
+  - Mean zero segment length: 320.57 samples
+  - Segments >= 450 samples: 304
+  - Total zero segments: 10197
+  - Mean zero segment length: 320.57 samples
+  - Total zero segments: 10197
+  - Mean zero segment length: 320.57 samples
+  - Mean zero segment length: 320.57 samples
+Processing file: Freezer_House_18.csv
+ Insights for Freezer:
+  - Segments < 150 samples: 5932
+  - Segments < 300 samples: 4646
+  - Segments < 450 samples: 250
+ Insights for Freezer:
+  - Segments < 150 samples: 5932
+  - Segments < 300 samples: 4646
+  - Segments < 450 samples: 250
+  - Segments < 150 samples: 5932
+  - Segments < 300 samples: 4646
+  - Segments < 450 samples: 250
+  - Segments >= 450 samples: 73
+  - Segments < 300 samples: 4646
+  - Segments < 450 samples: 250
+  - Segments >= 450 samples: 73
+  - Total zero segments: 10902
+  - Segments >= 450 samples: 73
+  - Total zero segments: 10902
+  - Mean zero segment length: 303.45 samples
+  - Total zero segments: 10902
+  - Mean zero segment length: 303.45 samples
+Processing file: Freezer_House_20.csv
+  - Mean zero segment length: 303.45 samples
+Processing file: Freezer_House_20.csv
+Processing file: Freezer_House_20.csv
+ Insights for Freezer:
+  - Segments < 150 samples: 1
+  - Segments < 300 samples: 0
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 42
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 42
+  - Total zero segments: 43
+  - Mean zero segment length: 2.26 samples
+  - Segments >= 450 samples: 42
+  - Total zero segments: 43
+  - Mean zero segment length: 2.26 samples
+  - Total zero segments: 43
+  - Mean zero segment length: 2.26 samples
+  - Mean zero segment length: 2.26 samples
+Processing file: Freezer_House_3.csv
+ Insights for Freezer:
+  - Segments < 150 samples: 19508
+  - Segments < 300 samples: 2358
+  - Segments < 450 samples: 103
+  - Segments >= 450 samples: 154
+  - Total zero segments: 22123
+  - Mean zero segment length: 188.07 samples
+Processing file: Freezer_House_4.csv
+ Insights for Freezer:
+  - Segments < 150 samples: 901
+  - Segments < 300 samples: 893
+  - Segments < 450 samples: 2088
+  - Segments >= 450 samples: 3369
+  - Total zero segments: 7251
+  - Mean zero segment length: 525.91 samples
+Processing file: Freezer_House_6.csv
+ Insights for Freezer:
+  - Segments < 150 samples: 16336
+  - Segments < 300 samples: 2954
+  - Segments < 450 samples: 73
+  - Segments >= 450 samples: 42
+  - Total zero segments: 19406
+  - Mean zero segment length: 211.24 samples
+Processing file: Freezer_House_7.csv
+ Insights for Freezer:
+  - Segments < 150 samples: 1
+  - Segments < 300 samples: 2
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 64
+  - Total zero segments: 67
+  - Mean zero segment length: 1.52 samples
+Processing file: Freezer_House_8.csv
+ Insights for Freezer:
+  - Segments < 150 samples: 9291
+  - Segments < 300 samples: 3540
+  - Segments < 450 samples: 72
+  - Segments >= 450 samples: 50
+  - Total zero segments: 12954
+  - Mean zero segment length: 343.19 samples
+Processing file: Washing Machine_House_1.csv
+ Insights for Washing Machine:
+  - Segments < 150 samples: 1604
+  - Segments < 300 samples: 165
+  - Segments < 450 samples: 262
+  - Segments >= 450 samples: 36
+  - Total zero segments: 2068
+  - Mean zero segment length: 3290.03 samples
+Processing file: Washing Machine_House_10.csv
+ Insights for Washing Machine:
+  - Segments < 150 samples: 616
+  - Segments < 300 samples: 42
+  - Segments < 450 samples: 16
+  - Segments >= 450 samples: 565
+  - Total zero segments: 1240
+  - Mean zero segment length: 4921.93 samples
+Processing file: Washing Machine_House_11.csv
+ Insights for Washing Machine:
+  - Segments < 150 samples: 516
+  - Segments < 300 samples: 2
+  - Segments < 450 samples: 4
+  - Segments >= 450 samples: 73
+  - Total zero segments: 596
+  - Mean zero segment length: 6912.75 samples
+Processing file: Washing Machine_House_13.csv
+ Insights for Washing Machine:
+  - Segments < 150 samples: 108
+  - Segments < 300 samples: 3
+  - Segments < 450 samples: 6
+  - Segments >= 450 samples: 237
+  - Total zero segments: 355
+  - Mean zero segment length: 11367.85 samples
+Processing file: Washing Machine_House_15.csv
+ Insights for Washing Machine:
+  - Segments < 150 samples: 2161
+  - Segments < 300 samples: 19
+  - Segments < 450 samples: 31
+  - Segments >= 450 samples: 220
+  - Total zero segments: 2432
+  - Mean zero segment length: 2467.70 samples
+Processing file: Washing Machine_House_16.csv
+ Insights for Washing Machine:
+  - Segments < 150 samples: 176
+  - Segments < 300 samples: 5
+  - Segments < 450 samples: 5
+  - Segments >= 450 samples: 279
+  - Total zero segments: 466
+  - Mean zero segment length: 11457.38 samples
+Processing file: Washing Machine_House_17.csv
+ Insights for Washing Machine:
+  - Segments < 150 samples: 1253
+  - Segments < 300 samples: 32
+  - Segments < 450 samples: 101
+  - Segments >= 450 samples: 176
+  - Total zero segments: 1563
+  - Mean zero segment length: 3361.83 samples
+Processing file: Washing Machine_House_18.csv
+ Insights for Washing Machine:
+  - Segments < 150 samples: 92
+  - Segments < 300 samples: 26
+  - Segments < 450 samples: 47
+  - Segments >= 450 samples: 77
+  - Total zero segments: 243
+  - Mean zero segment length: 20307.10 samples
+Processing file: Washing Machine_House_19.csv
+ Insights for Washing Machine:
+  - Segments < 150 samples: 81011
+  - Segments < 300 samples: 1
+  - Segments < 450 samples: 5
+  - Segments >= 450 samples: 240
+  - Total zero segments: 81258
+  - Mean zero segment length: 64.68 samples
+Processing file: Washing Machine_House_2.csv
+ Insights for Washing Machine:
+  - Segments < 150 samples: 108
+  - Segments < 300 samples: 3
+  - Segments < 450 samples: 6
+  - Segments >= 450 samples: 325
+  - Total zero segments: 443
+  - Mean zero segment length: 12220.45 samples
+Processing file: Washing Machine_House_20.csv
+ Insights for Washing Machine:
+  - Segments < 150 samples: 145
+  - Segments < 300 samples: 2
+  - Segments < 450 samples: 10
+  - Segments >= 450 samples: 193
+  - Total zero segments: 351
+  - Mean zero segment length: 14313.94 samples
+Processing file: Washing Machine_House_21.csv
+ Insights for Washing Machine:
+  - Segments < 150 samples: 851
+  - Segments < 300 samples: 10
+  - Segments < 450 samples: 11
+  - Segments >= 450 samples: 226
+  - Total zero segments: 1098
+  - Mean zero segment length: 4734.51 samples
+Processing file: Washing Machine_House_3.csv
+ Insights for Washing Machine:
+  - Segments < 150 samples: 2233
+  - Segments < 300 samples: 37
+  - Segments < 450 samples: 41
+  - Segments >= 450 samples: 666
+  - Total zero segments: 2978
+  - Mean zero segment length: 2190.91 samples
+Processing file: Washing Machine_House_4.csv
+ Insights for Washing Machine:
+  - Segments < 150 samples: 70
+  - Segments < 300 samples: 2
+  - Segments < 450 samples: 4
+  - Segments >= 450 samples: 49
+  - Total zero segments: 125
+  - Mean zero segment length: 50043.06 samples
+Processing file: Washing Machine_House_5.csv
+ Insights for Washing Machine:
+  - Segments < 150 samples: 1060
+  - Segments < 300 samples: 37
+  - Segments < 450 samples: 30
+  - Segments >= 450 samples: 279
+  - Total zero segments: 1407
+  - Mean zero segment length: 2733.33 samples
+Processing file: Washing Machine_House_6.csv
+ Insights for Washing Machine:
+  - Segments < 150 samples: 2520
+  - Segments < 300 samples: 37
+  - Segments < 450 samples: 12
+  - Segments >= 450 samples: 114
+  - Total zero segments: 2684
+  - Mean zero segment length: 2269.00 samples
+Processing file: Washing Machine_House_7.csv
+ Insights for Washing Machine:
+  - Segments < 150 samples: 200465
+  - Segments < 300 samples: 8
+  - Segments < 450 samples: 82
+  - Segments >= 450 samples: 836
+  - Total zero segments: 201392
+  - Mean zero segment length: 28.17 samples
+Processing file: Washing Machine_House_8.csv
+ Insights for Washing Machine:
+  - Segments < 150 samples: 209
+  - Segments < 300 samples: 5
+  - Segments < 450 samples: 32
+  - Segments >= 450 samples: 337
+  - Total zero segments: 584
+  - Mean zero segment length: 8802.58 samples
+Processing file: Washing Machine_House_9.csv
+ Insights for Washing Machine:
+  - Segments < 150 samples: 56
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 4
+  - Segments >= 450 samples: 230
+  - Total zero segments: 291
+  - Mean zero segment length: 19229.18 samples
+Processing file: Washer Dryer_House_1.csv
+ Insights for Washer Dryer:
+  - Segments < 150 samples: 685
+  - Segments < 300 samples: 32
+  - Segments < 450 samples: 4
+  - Segments >= 450 samples: 7
+  - Total zero segments: 729
+  - Mean zero segment length: 9508.77 samples
+Processing file: Washer Dryer_House_18.csv
+ Insights for Washer Dryer:
+  - Segments < 150 samples: 154
+  - Segments < 300 samples: 9
+  - Segments < 450 samples: 8
+  - Segments >= 450 samples: 4
+  - Total zero segments: 176
+  - Mean zero segment length: 28391.97 samples
+Processing file: Washer Dryer_House_8.csv
+ Insights for Washer Dryer:
+  - Segments < 150 samples: 128443
+  - Segments < 300 samples: 659
+  - Segments < 450 samples: 126
+  - Segments >= 450 samples: 111
+  - Total zero segments: 129340
+  - Mean zero segment length: 34.54 samples
+Processing file: Washer Dryer_House_9.csv
+ Insights for Washer Dryer:
+  - Segments < 150 samples: 454
+  - Segments < 300 samples: 30
+  - Segments < 450 samples: 51
+  - Segments >= 450 samples: 223
+  - Total zero segments: 759
+  - Mean zero segment length: 7822.07 samples
+Processing file: Tumble Dryer_House_15.csv
+ Insights for Tumble Dryer:
+  - Segments < 150 samples: 235
+  - Segments < 300 samples: 12
+  - Segments < 450 samples: 15
+  - Segments >= 450 samples: 51
+  - Total zero segments: 314
+  - Mean zero segment length: 19674.34 samples
+Processing file: Tumble Dryer_House_17.csv
+ Insights for Tumble Dryer:
+  - Segments < 150 samples: 142
+  - Segments < 300 samples: 21
+  - Segments < 450 samples: 5
+  - Segments >= 450 samples: 13
+  - Total zero segments: 182
+  - Mean zero segment length: 29737.11 samples
+Processing file: Tumble Dryer_House_20.csv
+ Insights for Tumble Dryer:
+  - Segments < 150 samples: 976
+  - Segments < 300 samples: 37
+  - Segments < 450 samples: 78
+  - Segments >= 450 samples: 82
+  - Total zero segments: 1174
+  - Mean zero segment length: 4318.35 samples
+Processing file: Tumble Dryer_House_21.csv
+ Insights for Tumble Dryer:
+  - Segments < 150 samples: 399
+  - Segments < 300 samples: 6
+  - Segments < 450 samples: 9
+  - Segments >= 450 samples: 107
+  - Total zero segments: 522
+  - Mean zero segment length: 10109.36 samples
+Processing file: Tumble Dryer_House_3.csv
+ Insights for Tumble Dryer:
+  - Segments < 150 samples: 302
+  - Segments < 300 samples: 224
+  - Segments < 450 samples: 261
+  - Segments >= 450 samples: 213
+  - Total zero segments: 1001
+  - Mean zero segment length: 6706.19 samples
+Processing file: Tumble Dryer_House_5.csv
+ Insights for Tumble Dryer:
+  - Segments < 150 samples: 102881
+  - Segments < 300 samples: 66
+  - Segments < 450 samples: 79
+  - Segments >= 450 samples: 480
+  - Total zero segments: 103507
+  - Mean zero segment length: 58.65 samples
+Processing file: Tumble Dryer_House_7.csv
+ Insights for Tumble Dryer:
+  - Segments < 150 samples: 642
+  - Segments < 300 samples: 292
+  - Segments < 450 samples: 274
+  - Segments >= 450 samples: 83
+  - Total zero segments: 1292
+  - Mean zero segment length: 5045.51 samples
+Processing file: Dishwasher_House_1.csv
+ Insights for Dishwasher:
+  - Segments < 150 samples: 645
+  - Segments < 300 samples: 49
+  - Segments < 450 samples: 120
+  - Segments >= 450 samples: 7
+  - Total zero segments: 822
+  - Mean zero segment length: 8387.76 samples
+Processing file: Dishwasher_House_10.csv
+ Insights for Dishwasher:
+  - Segments < 150 samples: 44718
+  - Segments < 300 samples: 119
+  - Segments < 450 samples: 32
+  - Segments >= 450 samples: 540
+  - Total zero segments: 45409
+  - Mean zero segment length: 45.04 samples
+Processing file: Dishwasher_House_11.csv
+ Insights for Dishwasher:
+  - Segments < 150 samples: 185
+  - Segments < 300 samples: 3
+  - Segments < 450 samples: 3
+  - Segments >= 450 samples: 37
+  - Total zero segments: 229
+  - Mean zero segment length: 19204.72 samples
+Processing file: Dishwasher_House_13.csv
+ Insights for Dishwasher:
+  - Segments < 150 samples: 3912
+  - Segments < 300 samples: 9
+  - Segments < 450 samples: 53
+  - Segments >= 450 samples: 118
+  - Total zero segments: 4093
+  - Mean zero segment length: 1135.00 samples
+Processing file: Dishwasher_House_15.csv
+ Insights for Dishwasher:
+  - Segments < 150 samples: 187
+  - Segments < 300 samples: 1
+  - Segments < 450 samples: 3
+  - Segments >= 450 samples: 15
+  - Total zero segments: 207
+  - Mean zero segment length: 29999.87 samples
+Processing file: Dishwasher_House_16.csv
+ Insights for Dishwasher:
+  - Segments < 150 samples: 116
+  - Segments < 300 samples: 3
+  - Segments < 450 samples: 94
+  - Segments >= 450 samples: 256
+  - Total zero segments: 470
+  - Mean zero segment length: 11391.53 samples
+Processing file: Dishwasher_House_18.csv
+ Insights for Dishwasher:
+  - Segments < 150 samples: 171
+  - Segments < 300 samples: 2
+  - Segments < 450 samples: 3
+  - Segments >= 450 samples: 148
+  - Total zero segments: 325
+  - Mean zero segment length: 15059.89 samples
+Processing file: Dishwasher_House_2.csv
+ Insights for Dishwasher:
+  - Segments < 150 samples: 1066
+  - Segments < 300 samples: 72
+  - Segments < 450 samples: 15
+  - Segments >= 450 samples: 439
+  - Total zero segments: 1593
+  - Mean zero segment length: 3311.27 samples
+Processing file: Dishwasher_House_20.csv
+ Insights for Dishwasher:
+  - Segments < 150 samples: 77
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 1
+  - Segments >= 450 samples: 138
+  - Total zero segments: 217
+  - Mean zero segment length: 23189.54 samples
+Processing file: Dishwasher_House_21.csv
+ Insights for Dishwasher:
+  - Segments < 150 samples: 10141
+  - Segments < 300 samples: 308
+  - Segments < 450 samples: 263
+  - Segments >= 450 samples: 102
+  - Total zero segments: 10815
+  - Mean zero segment length: 430.05 samples
+Processing file: Dishwasher_House_3.csv
+ Insights for Dishwasher:
+  - Segments < 150 samples: 138
+  - Segments < 300 samples: 7
+  - Segments < 450 samples: 8
+  - Segments >= 450 samples: 455
+  - Total zero segments: 609
+  - Mean zero segment length: 10359.38 samples
+Processing file: Dishwasher_House_5.csv
+ Insights for Dishwasher:
+  - Segments < 150 samples: 30
+  - Segments < 300 samples: 52
+  - Segments < 450 samples: 36
+  - Segments >= 450 samples: 709
+  - Total zero segments: 828
+  - Mean zero segment length: 6118.22 samples
+Processing file: Dishwasher_House_6.csv
+ Insights for Dishwasher:
+  - Segments < 150 samples: 1815
+  - Segments < 300 samples: 7
+  - Segments < 450 samples: 2
+  - Segments >= 450 samples: 90
+  - Total zero segments: 1915
+  - Mean zero segment length: 3202.84 samples
+Processing file: Dishwasher_House_7.csv
+ Insights for Dishwasher:
+  - Segments < 150 samples: 15926
+  - Segments < 300 samples: 197
+  - Segments < 450 samples: 144
+  - Segments >= 450 samples: 482
+  - Total zero segments: 16750
+  - Mean zero segment length: 358.98 samples
+Processing file: Dishwasher_House_9.csv
+ Insights for Dishwasher:
+  - Segments < 150 samples: 858
+  - Segments < 300 samples: 50
+  - Segments < 450 samples: 22
+  - Segments >= 450 samples: 357
+  - Total zero segments: 1288
+  - Mean zero segment length: 4460.59 samples
+Processing file: Microwave_House_10.csv
+ Insights for Microwave:
+  - Segments < 150 samples: 973
+  - Segments < 300 samples: 7
+  - Segments < 450 samples: 2
+  - Segments >= 450 samples: 1
+  - Total zero segments: 984
+  - Mean zero segment length: 6810.05 samples
+Processing file: Microwave_House_11.csv
+ Insights for Microwave:
+  - Segments < 150 samples: 2
+  - Segments < 300 samples: 2
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 85
+  - Total zero segments: 89
+  - Mean zero segment length: 1.69 samples
+Processing file: Microwave_House_12.csv
+ Insights for Microwave:
+  - Segments < 150 samples: 550
+  - Segments < 300 samples: 3
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 6
+  - Total zero segments: 560
+  - Mean zero segment length: 10410.41 samples
+Processing file: Microwave_House_13.csv
+ Insights for Microwave:
+  - Segments < 150 samples: 0
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 1
+  - Segments >= 450 samples: 19
+Processing file: Microwave_House_13.csv
+ Insights for Microwave:
+  - Segments < 150 samples: 0
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 1
+  - Segments >= 450 samples: 19
+ Insights for Microwave:
+  - Segments < 150 samples: 0
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 1
+  - Segments >= 450 samples: 19
+  - Segments < 150 samples: 0
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 1
+  - Segments >= 450 samples: 19
+  - Total zero segments: 20
+  - Mean zero segment length: 13.85 samples
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 1
+  - Segments >= 450 samples: 19
+  - Total zero segments: 20
+  - Mean zero segment length: 13.85 samples
+Processing file: Microwave_House_15.csv
+  - Segments >= 450 samples: 19
+  - Total zero segments: 20
+  - Mean zero segment length: 13.85 samples
+Processing file: Microwave_House_15.csv
+  - Total zero segments: 20
+  - Mean zero segment length: 13.85 samples
+Processing file: Microwave_House_15.csv
+ Insights for Microwave:
+  - Segments < 150 samples: 542277
+Processing file: Microwave_House_15.csv
+ Insights for Microwave:
+  - Segments < 150 samples: 542277
+ Insights for Microwave:
+  - Segments < 150 samples: 542277
+  - Segments < 300 samples: 1390
+  - Segments < 150 samples: 542277
+  - Segments < 300 samples: 1390
+  - Segments < 300 samples: 1390
+  - Segments < 450 samples: 202
+  - Segments < 450 samples: 202
+  - Segments >= 450 samples: 96
+  - Total zero segments: 543966
+  - Segments >= 450 samples: 96
+  - Total zero segments: 543966
+  - Mean zero segment length: 2.25 samples
+  - Total zero segments: 543966
+  - Mean zero segment length: 2.25 samples
+Processing file: Microwave_House_17.csv
+ Insights for Microwave:
+  - Mean zero segment length: 2.25 samples
+Processing file: Microwave_House_17.csv
+ Insights for Microwave:
+Processing file: Microwave_House_17.csv
+ Insights for Microwave:
+ Insights for Microwave:
+  - Segments < 150 samples: 3
+  - Segments < 300 samples: 0
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 0
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 40
+  - Total zero segments: 43
+  - Segments >= 450 samples: 40
+  - Total zero segments: 43
+  - Total zero segments: 43
+  - Mean zero segment length: 9.84 samples
+Processing file: Microwave_House_18.csv
+ Insights for Microwave:
+  - Segments < 150 samples: 698
+  - Segments < 300 samples: 28
+  - Segments < 450 samples: 11
+  - Segments >= 450 samples: 200
+  - Total zero segments: 937
+  - Mean zero segment length: 2.61 samples
+Processing file: Microwave_House_19.csv
+ Insights for Microwave:
+  - Segments < 150 samples: 1505
+  - Segments < 300 samples: 5
+  - Segments < 450 samples: 1
+  - Segments >= 450 samples: 2
+  - Total zero segments: 1514
+  - Mean zero segment length: 3699.26 samples
+Processing file: Microwave_House_2.csv
+ Insights for Microwave:
+  - Segments < 150 samples: 1651
+  - Segments < 300 samples: 2
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 2
+  - Total zero segments: 1656
+  - Mean zero segment length: 3436.85 samples
+Processing file: Microwave_House_20.csv
+ Insights for Microwave:
+  - Segments < 150 samples: 1
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 1
+  - Segments >= 450 samples: 93
+  - Total zero segments: 95
+  - Mean zero segment length: 1.98 samples
+Processing file: Microwave_House_3.csv
+ Insights for Microwave:
+  - Segments < 150 samples: 1124
+  - Segments < 300 samples: 16
+  - Segments < 450 samples: 4
+  - Segments >= 450 samples: 16
+  - Total zero segments: 1161
+  - Mean zero segment length: 5973.93 samples
+Processing file: Microwave_House_4.csv
+ Insights for Microwave:
+  - Segments < 150 samples: 19
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 69
+  - Total zero segments: 88
+  - Mean zero segment length: 7051.85 samples
+Processing file: Microwave_House_5.csv
+ Insights for Microwave:
+  - Segments < 150 samples: 2419
+  - Segments < 300 samples: 342
+  - Segments < 450 samples: 136
+  - Segments >= 450 samples: 291
+  - Total zero segments: 3189
+  - Mean zero segment length: 2136.16 samples
+Processing file: Microwave_House_6.csv
+ Insights for Microwave:
+  - Segments < 150 samples: 3
+  - Segments < 300 samples: 3
+  - Segments < 450 samples: 1
+  - Segments >= 450 samples: 126
+  - Total zero segments: 133
+  - Mean zero segment length: 1.46 samples
+Processing file: Microwave_House_8.csv
+ Insights for Microwave:
+  - Segments < 150 samples: 1
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 89
+  - Total zero segments: 90
+  - Mean zero segment length: 1.99 samples
+Processing file: Microwave_House_9.csv
+ Insights for Microwave:
+  - Segments < 150 samples: 486
+  - Segments < 300 samples: 6
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 1
+  - Total zero segments: 494
+  - Mean zero segment length: 12467.18 samples
+Processing file: Toaster_House_10.csv
+ Insights for Toaster:
+  - Segments < 150 samples: 658
+  - Segments < 300 samples: 3814
+  - Segments < 450 samples: 1050
+  - Segments >= 450 samples: 241
+  - Total zero segments: 5763
+  - Mean zero segment length: 859.10 samples
+Processing file: Toaster_House_12.csv
+ Insights for Toaster:
+  - Segments < 150 samples: 0
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 0
+  - Total zero segments: 1
+  - Mean zero segment length: 5859544.00 samples
+Processing file: Toaster_House_15.csv
+ Insights for Toaster:
+  - Segments < 150 samples: 143
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 0
+  - Total zero segments: 144
+  - Mean zero segment length: 43219.19 samples
+Processing file: Toaster_House_19.csv
+ Insights for Toaster:
+  - Segments < 150 samples: 749
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 1
+  - Segments >= 450 samples: 0
+  - Total zero segments: 751
+  - Mean zero segment length: 7467.13 samples
+Processing file: Toaster_House_2.csv
+ Insights for Toaster:
+  - Segments < 150 samples: 842
+  - Segments < 300 samples: 6
+  - Segments < 450 samples: 2
+  - Segments >= 450 samples: 2
+  - Total zero segments: 853
+  - Mean zero segment length: 6700.84 samples
+Processing file: Toaster_House_3.csv
+ Insights for Toaster:
+  - Segments < 150 samples: 659
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 1
+  - Segments >= 450 samples: 2
+  - Total zero segments: 663
+  - Mean zero segment length: 10527.75 samples
+Processing file: Toaster_House_5.csv
+ Insights for Toaster:
+  - Segments < 150 samples: 1323
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 0
+  - Total zero segments: 1324
+  - Mean zero segment length: 5587.53 samples
+Processing file: Toaster_House_6.csv
+ Insights for Toaster:
+  - Segments < 150 samples: 2116
+  - Segments < 300 samples: 7
+  - Segments < 450 samples: 3
+  - Segments >= 450 samples: 6
+  - Total zero segments: 2133
+  - Mean zero segment length: 2912.67 samples
+Processing file: Toaster_House_7.csv
+ Insights for Toaster:
+  - Segments < 150 samples: 1074
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 0
+  - Total zero segments: 1075
+  - Mean zero segment length: 6264.21 samples
+Processing file: Toaster_House_8.csv
+ Insights for Toaster:
+  - Segments < 150 samples: 762
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 2
+  - Total zero segments: 765
+  - Mean zero segment length: 7975.85 samples
+Processing file: Kettle_House_11.csv
+ Insights for Kettle:
+  - Segments < 150 samples: 2788
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 0
+  - Total zero segments: 2789
+  - Mean zero segment length: 1570.22 samples
+Processing file: Kettle_House_12.csv
+ Insights for Kettle:
+  - Segments < 150 samples: 989
+  - Segments < 300 samples: 147
+  - Segments < 450 samples: 95
+  - Segments >= 450 samples: 202
+  - Total zero segments: 1434
+  - Mean zero segment length: 3892.16 samples
+Processing file: Kettle_House_13.csv
+ Insights for Kettle:
+  - Segments < 150 samples: 1183
+  - Segments < 300 samples: 1
+  - Segments < 450 samples: 1
+  - Segments >= 450 samples: 6
+  - Total zero segments: 1192
+  - Mean zero segment length: 3930.38 samples
+Processing file: Kettle_House_17.csv
+ Insights for Kettle:
+  - Segments < 150 samples: 4948
+  - Segments < 300 samples: 7
+  - Segments < 450 samples: 3
+  - Segments >= 450 samples: 5
+  - Total zero segments: 4964
+  - Mean zero segment length: 1075.91 samples
+Processing file: Kettle_House_19.csv
+ Insights for Kettle:
+  - Segments < 150 samples: 2802
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 0
+  - Total zero segments: 2803
+  - Mean zero segment length: 1993.64 samples
+Processing file: Kettle_House_2.csv
+ Insights for Kettle:
+  - Segments < 150 samples: 3769
+  - Segments < 300 samples: 2
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 1
+  - Total zero segments: 3773
+  - Mean zero segment length: 1504.00 samples
+Processing file: Kettle_House_20.csv
+ Insights for Kettle:
+  - Segments < 150 samples: 2239
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 0
+  - Total zero segments: 2240
+  - Mean zero segment length: 2294.44 samples
+Processing file: Kettle_House_21.csv
+ Insights for Kettle:
+  - Segments < 150 samples: 1268
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 2
+  - Total zero segments: 1270
+  - Mean zero segment length: 4216.23 samples
+Processing file: Kettle_House_3.csv
+ Insights for Kettle:
+  - Segments < 150 samples: 3806
+  - Segments < 300 samples: 1
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 0
+  - Total zero segments: 3808
+  - Mean zero segment length: 1813.53 samples
+Processing file: Kettle_House_4.csv
+ Insights for Kettle:
+  - Segments < 150 samples: 2082
+  - Segments < 300 samples: 2
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 0
+  - Total zero segments: 2085
+  - Mean zero segment length: 3222.00 samples
+Processing file: Kettle_House_5.csv
+ Insights for Kettle:
+  - Segments < 150 samples: 4501
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 0
+  - Total zero segments: 4502
+  - Mean zero segment length: 1634.88 samples
+Processing file: Kettle_House_6.csv
+ Insights for Kettle:
+  - Segments < 150 samples: 4581
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 0
+  - Total zero segments: 4582
+  - Mean zero segment length: 1347.59 samples
+Processing file: Kettle_House_7.csv
+ Insights for Kettle:
+  - Segments < 150 samples: 1719
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 0
+  - Total zero segments: 1720
+  - Mean zero segment length: 3909.93 samples
+Processing file: Kettle_House_8.csv
+ Insights for Kettle:
+  - Segments < 150 samples: 3717
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 0
+  - Total zero segments: 3718
+  - Mean zero segment length: 1631.06 samples
+Processing file: Kettle_House_9.csv
+ Insights for Kettle:
+  - Segments < 150 samples: 3581
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 1
+  - Segments >= 450 samples: 1
+  - Total zero segments: 3584
+  - Mean zero segment length: 1701.51 samples
+Processing file: Computer_House_1.csv
+ Insights for Computer:
+  - Segments < 150 samples: 20630
+  - Segments < 300 samples: 177
+  - Segments < 450 samples: 174
+  - Segments >= 450 samples: 522
+  - Total zero segments: 21504
+  - Mean zero segment length: 288.48 samples
+Processing file: Computer_House_11.csv
+ Insights for Computer:
+  - Segments < 150 samples: 1560
+  - Segments < 300 samples: 6
+  - Segments < 450 samples: 8
+  - Segments >= 450 samples: 88
+  - Total zero segments: 1663
+  - Mean zero segment length: 1901.19 samples
+Processing file: Computer_House_12.csv
+ Insights for Computer:
+  - Segments < 150 samples: 2834
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 0
+  - Total zero segments: 2835
+  - Mean zero segment length: 2047.02 samples
+Processing file: Computer_House_15.csv
+ Insights for Computer:
+  - Segments < 150 samples: 81
+  - Segments < 300 samples: 18
+  - Segments < 450 samples: 13
+  - Segments >= 450 samples: 64
+  - Total zero segments: 177
+  - Mean zero segment length: 33585.95 samples
+Processing file: Computer_House_16.csv
+ Insights for Computer:
+  - Segments < 150 samples: 13274
+  - Segments < 300 samples: 13
+  - Segments < 450 samples: 8
+  - Segments >= 450 samples: 161
+  - Total zero segments: 13456
+  - Mean zero segment length: 132.27 samples
+Processing file: Computer_House_17.csv
+ Insights for Computer:
+  - Segments < 150 samples: 0
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 34
+  - Total zero segments: 34
+  - Mean zero segment length: 1.62 samples
+Processing file: Computer_House_18.csv
+ Insights for Computer:
+  - Segments < 150 samples: 0
+  - Segments < 300 samples: 1
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 40
+  - Total zero segments: 41
+  - Mean zero segment length: 1.20 samples
+Processing file: Computer_House_20.csv
+ Insights for Computer:
+  - Segments < 150 samples: 93
+  - Segments < 300 samples: 10
+  - Segments < 450 samples: 17
+  - Segments >= 450 samples: 248
+  - Total zero segments: 368
+  - Mean zero segment length: 12802.86 samples
+Processing file: Computer_House_4.csv
+ Insights for Computer:
+  - Segments < 150 samples: 2784
+  - Segments < 300 samples: 12
+  - Segments < 450 samples: 14
+  - Segments >= 450 samples: 69
+  - Total zero segments: 2879
+  - Mean zero segment length: 361.02 samples
+Processing file: Computer_House_5.csv
+ Insights for Computer:
+  - Segments < 150 samples: 29
+  - Segments < 300 samples: 9
+  - Segments < 450 samples: 3
+  - Segments >= 450 samples: 68
+  - Total zero segments: 109
+  - Mean zero segment length: 6787.14 samples
+Processing file: Computer_House_6.csv
+ Insights for Computer:
+  - Segments < 150 samples: 5
+  - Segments < 300 samples: 3
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 60
+  - Total zero segments: 68
+  - Mean zero segment length: 1.41 samples
+Processing file: Computer_House_8.csv
+ Insights for Computer:
+  - Segments < 150 samples: 1
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 54
+  - Total zero segments: 55
+  - Mean zero segment length: 1.27 samples
+Processing file: Television_House_1.csv
+ Insights for Television:
+  - Segments < 150 samples: 1130
+  - Segments < 300 samples: 260
+  - Segments < 450 samples: 187
+  - Segments >= 450 samples: 800
+  - Total zero segments: 2378
+  - Mean zero segment length: 2391.13 samples
+Processing file: Television_House_10.csv
+ Insights for Television:
+  - Segments < 150 samples: 54
+  - Segments < 300 samples: 17
+  - Segments < 450 samples: 2
+  - Segments >= 450 samples: 83
+  - Total zero segments: 156
+  - Mean zero segment length: 2.19 samples
+Processing file: Television_House_12.csv
+ Insights for Television:
+  - Segments < 150 samples: 0
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 0
+  - Total zero segments: 1
+  - Mean zero segment length: 5859544.00 samples
+Processing file: Television_House_13.csv
+ Insights for Television:
+  - Segments < 150 samples: 238
+  - Segments < 300 samples: 11
+  - Segments < 450 samples: 16
+  - Segments >= 450 samples: 108
+  - Total zero segments: 374
+  - Mean zero segment length: 11898.91 samples
+Processing file: Television_House_15.csv
+ Insights for Television:
+  - Segments < 150 samples: 189
+  - Segments < 300 samples: 38
+  - Segments < 450 samples: 35
+  - Segments >= 450 samples: 726
+  - Total zero segments: 989
+  - Mean zero segment length: 4692.85 samples
+Processing file: Television_House_16.csv
+ Insights for Television:
+  - Segments < 150 samples: 645
+  - Segments < 300 samples: 146
+  - Segments < 450 samples: 112
+  - Segments >= 450 samples: 570
+  - Total zero segments: 1474
+  - Mean zero segment length: 1716.82 samples
+Processing file: Television_House_17.csv
+ Insights for Television:
+  - Segments < 150 samples: 246704
+  - Segments < 300 samples: 289
+  - Segments < 450 samples: 86
+  - Segments >= 450 samples: 452
+  - Total zero segments: 247531
+  - Mean zero segment length: 2.40 samples
+Processing file: Television_House_18.csv
+ Insights for Television:
+  - Segments < 150 samples: 0
+  - Segments < 300 samples: 0
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 56
+  - Total zero segments: 56
+  - Mean zero segment length: 16.75 samples
+Processing file: Television_House_19.csv
+ Insights for Television:
+  - Segments < 150 samples: 0
+  - Segments < 300 samples: 1
+  - Segments < 450 samples: 0
+  - Segments >= 450 samples: 77
+  - Total zero segments: 78
+  - Mean zero segment length: 1.53 samples
+Processing file: Television_House_2.csv
+ Insights for Television:
+  - Segments < 150 samples: 485
+  - Segments < 300 samples: 326
+  - Segments < 450 samples: 223
+  - Segments >= 450 samples: 444
+  - Total zero segments: 1479
+  - Mean zero segment length: 3521.27 samples
+Processing file: Television_House_20.csv
+ Insights for Television:
+  - Segments < 150 samples: 6
+  - Segments < 300 samples: 1
+  - Segments < 450 samples: 1
+  - Segments >= 450 samples: 88
+  - Total zero segments: 96
+  - Mean zero segment length: 2.65 samples
+Processing file: Television_House_21.csv
+ Insights for Television:
+  - Segments < 150 samples: 191
+  - Segments < 300 samples: 57
+  - Segments < 450 samples: 69
+  - Segments >= 450 samples: 649
+  - Total zero segments: 967
+  - Mean zero segment length: 4461.97 samples

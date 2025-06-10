@@ -146,6 +146,91 @@ class Appliance_Manipulation:
                 except Exception as e:
                     print(f"Error processing {house} for {appliance_name}: {e}")
 
+    def analyze_power_segments(self, appliance):
+        """
+        Analyzes power usage segments and computes statistics including:
+        - Count of value segments by duration
+        - Mean length of zero segments
+
+        Args:
+            df (pd.DataFrame): DataFrame containing the appliance data.
+            appliance (str): Column name corresponding to the appliance.
+
+        Returns:
+            dict: Dictionary with segment counts and mean zero segment length.
+        """
+        folder_path = Path(f'{self.base_dir}/{appliance}')
+        for item in folder_path.iterdir():
+            if item.is_file() and item.name.startswith(f'{appliance}_') and item.name.endswith('.csv'):
+                print("Processing file:", item.name)
+                appliance_file = item.name.split('.')[0]  # Extract appliance name without extension
+                df = pd.read_csv(f'{folder_path}/{appliance_file}.csv')
+                inside_value_segment = False
+                inside_zero_segment = False
+
+                zero_segment_list_tot = 0
+                segment_inf_150 = 0
+                segment_inf_300 = 0
+                segment_inf_450 = 0
+                segment_sup_450 = 0
+
+                total_zero_segment_length = 0
+                zero_segment_count = 0
+
+                power_series = df[appliance].values
+
+                for idx, value in enumerate(power_series):
+                    if value > 0.0 and not inside_value_segment:
+                        inside_value_segment = True
+                        if inside_zero_segment:
+                            # Close zero segment
+                            inside_zero_segment = False
+                            end_zero_idx = idx
+                            zero_segment_length = end_zero_idx - start_zero_idx
+                            total_zero_segment_length += zero_segment_length
+                            zero_segment_count += 1
+                        end_zero_idx = idx
+                        start_value_idx = idx
+
+                    elif value == 0.0 and inside_value_segment:
+                        inside_value_segment = False
+                        inside_zero_segment = True
+                        start_zero_idx = idx
+                        end_value_idx = idx
+                        value_segment_length = end_value_idx - start_value_idx
+                        if value_segment_length < 150.0:
+                            segment_inf_150 += 1
+                        elif value_segment_length < 300.0:
+                            segment_inf_300 += 1
+                        elif value_segment_length < 450.0:
+                            segment_inf_450 += 1
+                        else:
+                            segment_sup_450 += 1
+
+                    elif value == 0.0 and not inside_value_segment and not inside_zero_segment:
+                        inside_zero_segment = True
+                        start_zero_idx = idx
+
+                # Handle case where series ends in a zero segment
+                if inside_zero_segment:
+                    end_zero_idx = len(power_series)
+                    zero_segment_length = end_zero_idx - start_zero_idx
+                    total_zero_segment_length += zero_segment_length
+                    zero_segment_count += 1
+
+                mean_zero_segment_length = (
+                    total_zero_segment_length / zero_segment_count
+                    if zero_segment_count > 0 else 0
+                )
+
+                print(f" Insights for {appliance}:")
+                print(f"  - Segments < 150 samples: {segment_inf_150}")
+                print(f"  - Segments < 300 samples: {segment_inf_300}")
+                print(f"  - Segments < 450 samples: {segment_inf_450}")
+                print(f"  - Segments >= 450 samples: {segment_sup_450}")
+                print(f"  - Total zero segments: {zero_segment_count}")
+                print(f"  - Mean zero segment length: {mean_zero_segment_length:.2f} samples")
+
 def main():
     appliance = ['Fridge','Freezer','Washing Machine','Washer Dryer','Tumble Dryer','Dishwasher','Microwave','Toaster','Kettle',
                 'Computer','Television','Electric Heater','Hi-Fi','Router','Dehumidifier','Bread-maker',
@@ -154,7 +239,10 @@ def main():
     for appliance in appliance:
         appliance_manipulation = Appliance_Manipulation()
         # appliance_map = appliance_manipulation.map_creator()
-        fridge_data = appliance_manipulation.column_extractor(appliance)
+        # fridge_data = appliance_manipulation.column_extractor(appliance)
+        appliance_manipulation.analyze_power_segments(
+                        appliance=f'{appliance}'
+                    )
 
 
 if __name__ == "__main__":
