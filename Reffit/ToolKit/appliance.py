@@ -260,6 +260,22 @@ class Appliance_Manipulation:
         plt.show()
 
 
+
+    def extract_full_house_data(self, window_length,house_no):
+        house_path = self.base_dir
+        map_houses = self.map_creator()
+        df = pd.read_csv(f'{house_path}/{house_no}')
+
+        for appliance,houses in map_houses.items():
+            for house,appliance_no in houses.items():
+                # print(house, house_no.split(".")[0])
+                if house == house_no.split(".")[0]:
+                    df = df.rename(columns={f"Appliance{appliance_no[0]}": appliance})
+                    df['Unix'] = df['Unix'] - df['Unix'].iloc[0]
+        df.to_csv(f'{house_path}/Processed/{house_no}', index=False)
+        
+
+
 def main():
     appliance = ['Fridge','Freezer','Washing Machine','Washer Dryer','Tumble Dryer','Dishwasher','Microwave','Toaster','Kettle',
                 'Computer','Television','Electric Heater','Hi-Fi','Router','Dehumidifier','Bread-maker',
@@ -273,7 +289,8 @@ def main():
         # appliance_map = appliance_manipulation.map_creator()
         # fridge_data = appliance_manipulation.column_extractor(appliance)
     # plot_data = appliance_manipulation.plot_all_appliances_grid(appliance_with_issues)
-    aggregate_data_extractor = appliance_manipulation.aggregate_data_extractor()
+    # aggregate_data_extractor = appliance_manipulation.aggregate_data_extractor()
+    appliance_manipulation.extract_full_house_data(300,'House_9.csv')
 
 
 if __name__ == "__main__":
